@@ -1,0 +1,43 @@
+{
+  "name": "buildmotion-rules",
+  "version": "1.0.0",
+  "description": "An Angular custom module that contains rules for BuildMotion Angular applications...",
+  "main": "index.js",
+  "scripts": {
+    "transpile": "ngc",
+    "build": "npm run transpile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://build-hybridmobileapp-net.visualstudio.com/_git/BuildMotion.Commerce"
+  },
+  "keywords": [
+    "buildmotion",
+    "Angular",
+    "framework",
+    "Matt Vaughn",
+    "angularlicio.us",
+    "build motion",
+    "angular-rules-engine"
+  ],
+  "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
+  "license": "MIT",
+  "dependencies": {
+    "angular-rules-engine": "^0.0.27",
+    "@angular/http": "^2.3.1",
+    "@angular/router": "^3.3.1",
+    "typescript-dotnet-commonjs": "^4.8.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.2",
+    "@angular/common": "^4.4.3",
+    "@angular/compiler": "^4.4.3",
+    "@angular/compiler-cli": "^4.4.3",
+    "@angular/core": "^4.4.3",
+    "@angular/http": "^2.3.1",
+    "@angular/router": "^3.3.1",
+    "angular-rules-engine": "^0.0.27",
+    "typescript-dotnet-commonjs": "^4.8.0",
+    "rxjs": "^5.0.1"
+  }
+}
