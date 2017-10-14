@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://build-hybridmobileapp-net.visualstudio.com/_git/BuildMotion.Commerce"
+    "url": "https://github.com/buildmotion/buildmotion-rules"
   },
   "keywords": [
     "buildmotion",

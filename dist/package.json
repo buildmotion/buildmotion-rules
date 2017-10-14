@@ -1,6 +1,6 @@
 {
   "name": "buildmotion-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular custom module that contains rules for BuildMotion Angular applications...",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://build-hybridmobileapp-net.visualstudio.com/_git/BuildMotion.Commerce"
+    "url": "https://github.com/buildmotion/buildmotion-rules"
   },
   "keywords": [
     "buildmotion",
