@@ -16,7 +16,7 @@ import { DateTime } from 'typescript-dotnet-commonjs/System/Time/DateTime';
 /**
  * Use to verify that the target date (maximum date allowed) is greater than (after) the comparison date (date entered).
  */
-var DateIsGreaterRule = /** @class */ (function (_super) {
+var DateIsGreaterRule = (function (_super) {
     __extends(DateIsGreaterRule, _super);
     function DateIsGreaterRule(name, message, targetDate, comparisonDate, isDisplayable) {
         var _this = _super.call(this, name, message, isDisplayable) || this;

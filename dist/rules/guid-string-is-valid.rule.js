@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
 import * as rules from 'angular-rules-engine/rules/index';
 import { CompositeRule } from 'angular-rules-engine/rules/index';
 import { StringIsRegExpMatchRule } from './string-is-regexp-match.rule';
-var GuidStringIsValidRule = /** @class */ (function (_super) {
+var GuidStringIsValidRule = (function (_super) {
     __extends(GuidStringIsValidRule, _super);
     function GuidStringIsValidRule(name, message, target, isDisplayable) {
         var _this = _super.call(this, name, message, isDisplayable) || this;

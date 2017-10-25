@@ -10,7 +10,7 @@ var __extends = (this && this.__extends) || (function () {
 })();
 import * as rules from 'angular-rules-engine/rules/index';
 import { CompositeRule } from 'angular-rules-engine/rules/index';
-var StringIsRegExpMatchRule = /** @class */ (function (_super) {
+var StringIsRegExpMatchRule = (function (_super) {
     __extends(StringIsRegExpMatchRule, _super);
     function StringIsRegExpMatchRule(name, message, target, expression, isDisplayable) {
         var _this = _super.call(this, name, message, isDisplayable) || this;

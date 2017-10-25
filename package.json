@@ -21,9 +21,9 @@
     "angular-rules-engine"
   ],
   "author": "Matt Vaughn",
-  "license": "SEE LICENSE IN license.txt",
+  "license": "MIT",
   "dependencies": {
-    "angular-rules-engine": "^0.0.27",
+    "angular-rules-engine": "",
     "@angular/http": "^2.3.1",
     "@angular/router": "^3.3.1",
     "typescript-dotnet-commonjs": "^4.8.0"

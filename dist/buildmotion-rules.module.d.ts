@@ -1,2 +1,2 @@
-export declare class buildmotionRulesModule {
+export declare class BuildMotionRulesModule {
 }
