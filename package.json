@@ -1,6 +1,6 @@
 {
   "name": "buildmotion-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular custom module that contains rules for BuildMotion Angular applications...",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,10 @@
     "build motion",
     "angular-rules-engine"
   ],
-  "author": "Matt Vaughn",
+  "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
   "license": "MIT",
   "dependencies": {
-    "angular-rules-engine": "",
+    "angular-rules-engine": "^0.0.27",
     "@angular/http": "^2.3.1",
     "@angular/router": "^3.3.1",
     "typescript-dotnet-commonjs": "^4.8.0"
